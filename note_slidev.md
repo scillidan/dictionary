@@ -25,9 +25,6 @@ layout: quote
 
 #### [Building and Hosting](https://sli.dev/guide/hosting)
 
-```sh
-```
-
 #### [Click Markers](https://sli.dev/features/click-marker.html)
 
 #Presenter #Animation 
