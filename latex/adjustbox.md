@@ -14,5 +14,3 @@ Tags: `latex`, `adjustbox`, `graphics`, `document`, `packaging`
 ```
 
 https://github.com/MartinScharrer/adjustbox/blob/main/demo.tex
-
-![[demo.pdf]]
