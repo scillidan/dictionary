@@ -1,0 +1,5 @@
+## tautology (n.)
+
+"repetition of the same word, or use of several words conveying the same idea, in the same immediate context; repetition of the same thing in different words; the useless repetition of the same idea or meaning" (as in _they arrived simultaneously at the same time_); 1570s, from Late Latin _tautologia_ "representation of the same thing in other words," from Greek _tautologia_, from _tautologos_ "repeating what has been said." This is a compound of _tauto_ "the same" (see [tauto-](https://www.etymonline.com/word/tauto- "Etymology, meaning and definition of tauto- ")) + _\-logos_ "saying" (see [Logos](https://www.etymonline.com/word/Logos "Etymology, meaning and definition of Logos "))." Related: _Tautological; tautologically; tautologous; tautologize_.
+
+> _Tautology_ is repetition without addition of force or clearness, and is disguised by a change of wording ; it differs from the _repetition_ which is used for clearness, emphasis, or effect, and which may be either in the same or in different words \[Century Dictionary\]

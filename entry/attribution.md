@@ -1,0 +1,3 @@
+## attribution (n.)
+
+late 15c., "action of bestowing or assigning," from Latin _attributionem_ (nominative _attributio_) "an assignment, attribution," noun of action from past-participle stem of _attribuere_ "assign, allot; ascribe, impute," from assimilated form of _ad_ "to" (see [ad-](https://www.etymonline.com/word/ad- "Etymology, meaning and definition of ad-")) + _tribuere_ "assign, give, bestow" (see [tribute](https://www.etymonline.com/word/tribute "Etymology, meaning and definition of tribute")). The meaning "thing attributed" is recorded from 1580s.

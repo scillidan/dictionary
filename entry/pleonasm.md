@@ -1,0 +1,5 @@
+## pleonasm (n.)
+
+"redundancy in words," 1580s, from Late Latin _pleonasmus_, from Greek _pleonasmos_, from _pleonazein_ "to be more than enough, to be superfluous," in grammatical use, "to add superfluously," from combining form of _pleon_ "more" (from PIE root [\*pele-](https://www.etymonline.com/word/*pele-#etymonline_v_52732 "Etymology, meaning and definition of *pele- ") (1) "to fill"). Not necessarily a flaw in rhetoric and sometimes used effectively for emphasis. As Fowler writes, "The writer who uses \[pleonasm\] in that way must be judged by whether he does produce his effect & whether the occasion is worthy of it."
+
+> The first surplusage the Greekes call _Pleonasmus_, I call him \[too full speech\] and is no great fault, as if one should say, _I heard it with mine eares, and saw it with mine eyes_, as if a man could heare with his heeles, or see with his nose. We our selues ysed this superfluous speech in a verse written of our mistresse, neuertheles, not much to be misliked, for euen a vice sometime being seasonably vsed, hath a pretie grace. \[George Puttenham, "The Arte of English Poesie, 1589\]

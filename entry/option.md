@@ -1,0 +1,5 @@
+## option (n.)
+
+c. 1600, "action of choosing;" 1630s, "power or liberty of choosing," from French _option_ (Old French _opcion_), from Latin _optionem_ (nominative _optio_) "choice, free choice, liberty to choose," from _optare_ "to desire, pray for, choose," which is of uncertain origin. De Vaan derives it from Proto-Italic _*opeje-_ "to choose, grab," from PIE _*hopeie-_ "to choose, grab," and compares Hittite _epp/app-_ "to take, grab," Sanskrit _apa_, Avestan _apa_ "has reached."
+
+The meaning "thing that may be chosen" is attested from 1885. The commercial transaction sense of "privilege secured by payment of a premium (on a stock or a certain produce at a specified time and at a specified price)" is recorded from 1755 (the verb in this sense is attested by 1880 in American English). As a North American football play in which the back may either pass the ball or run with it, it is recorded by 1953.

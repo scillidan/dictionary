@@ -31,6 +31,7 @@
 | cmp          | complete                             |
 | comm         | communication                        |
 | con          | console                              |
+| cons         | consolidated                         |
 | ct           | cherrytree                           |
 | ctrl         | control/controller                   |
 | cue          | cue sheet file                       |

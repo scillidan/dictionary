@@ -1,0 +1,3 @@
+## oxymoron (n.)
+
+in rhetoric, "a figure conjoining words or terms apparently contradictory so as to give point to the statement or expression," 1650s, from Greek _oxymōron_, noun use of neuter of _oxymōros_ (adj.) "pointedly foolish," from _oxys_ "sharp, pointed" (from PIE root [\*ak-](https://www.etymonline.com/word/*ak- "Etymology, meaning and definition of *ak- ") "be sharp, rise (out) to a point, pierce") + _mōros_ "stupid" (see [moron](https://www.etymonline.com/word/moron "Etymology, meaning and definition of moron ")). The word itself is an illustration of the thing. Now often used loosely to mean "contradiction in terms." Related: _Oxymoronic_.
