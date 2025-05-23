@@ -1,0 +1,7 @@
+## define (v.)
+
+late 14c., _deffinen, diffinen_, "to specify; to fix or establish authoritatively;" of words, phrases, etc., "state the signification of, explain what is meant by, describe in detail," from Old French _defenir_, _definir_ "to finish, conclude, come to an end; bring to an end; _define_, determine with precision," and directly from Medieval Latin _diffinire, definire_, from Latin _definire_ "to limit, determine, explain," from _de_ "completely" (see [de-](https://www.etymonline.com/word/de- "Etymology, meaning and definition of de- ")) + _finire_ "to bound, limit," from _finis_ "boundary, end" (see [finish](https://www.etymonline.com/word/finish#etymonline_v_5960 "Etymology, meaning and definition of finish ") (v.)). From c. 1400 as "determine, declare, or mark the limit of." Related: _Defined_; _defining_.
+
+```md
+在14世纪晚期，_deffinen, diffinen_（定义），意为“指定；权威性地固定或建立”；针对单词、短语等，“说明含义，解释意思，详细描述”，源自古法语 _defenir, definir_（完成，结束，终止；结束；定义，精准地确定），并直接来自中世纪拉丁语 _diffinire, definire_，源于拉丁语 _definire_（限制，确定，解释），由 _de_（完全，详见 [de-](https://www.etymonline.com/word/de- "Etymology, meaning and definition of de- ")）+ _finire_（界限，限制），来源于 _finis_（边界，结束，详见 [finish](https://www.etymonline.com/word/finish#etymonline_v_5960 "Etymology, meaning and definition of finish ")（动词））组成。大约在1400年起，表示“确定，声明或标记限制”。相关词：_Defined_（定义的）；_defining_（定义中）。
+```
