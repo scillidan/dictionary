@@ -1,4 +1,4 @@
-| entry  | description_zh_cn |
+| entry  | description |
 | :----- | :---------------- |
 | x264   | 属于档案压缩技术兼格式       |
 | remux  | 无损编码              |

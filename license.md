@@ -1,4 +1,4 @@
-| alias       | url                                               | name                                                     | name_zh       |
+| alias       | url                                               | name                                                     | _zh_          |
 | :---------- | :------------------------------------------------ | :------------------------------------------------------- | :------------ |
 | pdm         | https://creativecommons.org/publicdomain/mark/1.0 | Public Domain Mark                                       | 公有领域标识        |
 | cc 0        | https://creativecommons.org/publicdomain/zero/1.0 | Creative Commons Zero                                    | 公有领域          |

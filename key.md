@@ -1,4 +1,4 @@
-| key   | name      | description_zh         |
+| key   | name      | description            |
 | :---- | :-------- | :--------------------- |
 | Ctrl  | control   | 修饰键之一 与其他键一同按下时会执行特殊操作 |
 | Shift | shift up  | 源于打字机操作中将大写字母上移的这个动作   |

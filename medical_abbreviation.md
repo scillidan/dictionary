@@ -1,4 +1,4 @@
-| alias    | entry                       | entry_zh |
+| alias    | entry                       | _zh_     |
 | :------- | :-------------------------- | :------- |
 | Rp.      | recipe                      | 取        |
 | Sig.S.   | signa                       | 标记       |

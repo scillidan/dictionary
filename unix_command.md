@@ -1,4 +1,4 @@
-| entry                 | description_zh   |
+| entry                 | description |
 | :-------------------- | :--------------- |
 | touch                 | 接触，更新时间戳 可用于新建文件 |
 | mkdir (makedirectory) | 创建目录             |

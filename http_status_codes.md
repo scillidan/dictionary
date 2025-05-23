@@ -1,4 +1,4 @@
-| code | response status                 | response status_zh |
+| code | response_status                 | _zh_               |
 | :--- | :------------------------------ | :----------------- |
 | 1xx  | Informational                   | 信息                 |
 | 100  | Continue                        | 继续                 |

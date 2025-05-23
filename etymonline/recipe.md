@@ -1,0 +1,7 @@
+## recipe (n.)
+
+1580s, "medical prescription, a formula for the composing of a remedy written by a physician," from French __récipé__ (15c.), from Latin __recipe__ "take!" (this or that ingredient), second person imperative singular of _recipere_ "to hold, contain" (see [receive](https://www.etymonline.com/word/receive "Etymology, meaning and definition of receive ")). It was the word written by physicians at the head of prescriptions. Figurative meaning "a prescribed formula" is from 1640s. Meaning "instructions for preparing a particular food" is recorded by 1716. The older sense in English survives chiefly in the pharmacist's abbreviation _**Rx**_. Compare [receipt](https://www.etymonline.com/word/receipt "Etymology, meaning and definition of receipt ").
+
+```md
+1580年代，“医疗处方，医师开出的配方” (medical prescription, a formula for the composing of a remedy written by a physician) 源自法语 __récipé__ (15世纪)，再追溯至拉丁语 __recipe__ “取！” (this or that ingredient)，为动词 _recipere_ “持有，包含” (to hold, contain) 的第二人称单数命令式 (see [receive](https://www.etymonline.com/word/receive "Etymology, meaning and definition of receive "))。这是医师在处方顶部书写的词语。比喻意义“规定的配方” (a prescribed formula) 出现于1640年代。表示“准备特定食品的指示” (instructions for preparing a particular food) 的意思则记录于1716年。其早期意义在英语中主要保留为药剂师的缩写 _**Rx**_。比较 [收据](https://www.etymonline.com/word/receipt "Etymology, meaning and definition of receipt ")。
+```

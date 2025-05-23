@@ -1,4 +1,4 @@
-| code | currency                    | currency_zh     |
+| code | currency                    | _zh_            |
 | :--- | :-------------------------- | :-------------- |
 | aed  | united arab emirates dirham | 阿联酋迪拉姆          |
 | afn  | afghanistan afghani         | 阿富汗尼(阿尼)        |
