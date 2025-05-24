@@ -44,6 +44,9 @@ uefi [unified extensible firmware interface] [统一可扩展固件接口]
   用于替代个人电脑开机阶段内 初始化硬件的软件bios(basic input/output system 基础输入输出系统)
   该标准中的gpt(guid(globally unique identifier) partition table 全局唯一标识符分区表) 一个实体硬盘分区表的结构布局标准 就用来替代旧启动式mbr(master boot record 主引导记录)
 
+shimmer
+  祖安特调“微光”
+
 转写 [transl] [transliteration]
   将拼音文字系统的字符按对照表转换成另一套拼音文字系统的字符
   包含基础字符的附加符 用双字符表示的单音素
@@ -60,7 +63,29 @@ uefi [unified extensible firmware interface] [统一可扩展固件接口]
 采样率 [sample rate]
   声音由模拟信号转换成数字信号时 从连续信号提取以组成离散信号的每秒的采样数
   数位音乐常用44100hz 数位影视常用48000hz 蓝光碟等专业级常用96000hz
+```
 
+```
+.csv
+  最早，我有一个专门的`.txt`文件来记录各类东西，也用于使用Grep检索
+  后来使用`.csv`格式
+  2022-2023年间，相对集中地多次拆分、合并文本
+  2023年下半年开始，部分地迁移到Notion，后来又从Notion移回到Markdown表格
+缩写
+  我之前在填`.csv`的`tag`列时，为了避免行变得更长，使用了(或不)常见的缩写，如`wdw[window]`、`kbd[keyboard]`，于是有了一个收集遇到的缩写的`abbr.csv`文件
+  最早是直接搜索谷歌`<word> abbreviation`
+  后来使用[All Acronyms](https://www.allacronyms.com/)
+  缩写词也有其他的来源和例外情况。如scene的缩写使用了sn，参考[从新·EVA特报2中可以获取到什么信息？](https://www.bilibili.com/video/BV1zt411E7RV/)
+可写易读
+  2023年年底，开始从Logseq移除了多个页面
+  删减了列数，并在`.md`写由AlignTab对齐的表格。要回收所有`.csv`的事情开头了
+  将一些配置文件的备份从MegaSync移到了git
+  最近被迫重装了系统，手动去恢复、调整配置时，也在养成更节能、可写、易读的习惯
+hypothesis
+  之前使用这个插件来标记或者摘抄词条、段落、整篇文章等等
+```
+
+```
 lua
   1993年诞生在巴西 葡萄牙语中是月亮的意思
   一种动态脚本语言 常用于配置(config),运行时(runtime) 适合嵌入更大的脚本,库 进行交互

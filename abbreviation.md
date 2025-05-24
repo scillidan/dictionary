@@ -1,5 +1,7 @@
 | abbreviation | word                                 |
 | :----------- | :----------------------------------- |
+| pal          | paletter                             |
+| coms         | complementary                        |
 | abbr         | abbreviation                         |
 | abt          | about                                |
 | ack          | acknowledgement                      |
@@ -18,6 +20,7 @@
 | bkm          | bookmark                             |
 | bksp         | backspace                            |
 | bot          | robot                                |
+| brd          | border                               |
 | brows        | browser                              |
 | cad          | computer-aided design                |
 | cbz          | comic book archive                   |
